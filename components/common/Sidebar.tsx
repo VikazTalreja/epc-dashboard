@@ -28,7 +28,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeView, setView }) => (
     <div className="p-4 border-t border-gray-100">
       <div className="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-50 cursor-pointer transition-colors">
         <div className="w-8 h-8 rounded-full bg-gradient-to-br from-blue-100 to-blue-50 flex items-center justify-center text-blue-700 text-xs font-bold border border-blue-100">
-          JD
+          HC
         </div>
         <div>
           <p className="text-sm font-semibold text-gray-800">Harsh Chaudhari</p>
